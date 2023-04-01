@@ -16,7 +16,7 @@
          
     <dependencies>
              
-             //SELENIUM
+             //SELENIUM(REMOVE THESE TEXT/LINE BEFORE COPY)
              
         <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->                            
         <dependency>
