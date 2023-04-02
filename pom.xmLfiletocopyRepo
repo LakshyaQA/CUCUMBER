@@ -92,10 +92,22 @@
 <artifactId>poi-ooxml</artifactId>
 <version>5.2.3</version>
 </dependency>
+
+//WebDriverManager.(browser u want to choose)Chromedriver().setup();
+//Webdriver driver = new (browser driver u choosen)Chromedriver();(REMOVE THESE TEXT/LINE BEFORE COPY)
+
+<!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
+        <dependency>
+            <groupId>io.github.bonigarcia</groupId>
+            <artifactId>webdrivermanager</artifactId>
+            <version>5.3.2</version>
+        </dependency>
             
     </dependencies> 
          
-         STOP  HERE (13- - 92) REPO COPIED
+         STOP  HERE 
+         
+         //(13- - 92) import libraries REPO COPIED
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
