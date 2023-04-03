@@ -38,7 +38,7 @@
              
              //CUCUMBER(REMOVE THESE TEXT BEFORE COPY)
 
-        <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->Q                                           
+        <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->                                          
         <dependency>
             <groupId>io.cucumber</groupId>
             <artifactId>cucumber-java</artifactId>
@@ -47,7 +47,7 @@
              
               //CUCUMBER2(REMOVE THESE TEXT BEFORE COPY)
 
-        <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-junit -->Q                                              
+        <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-junit -->                                           
         <dependency>
             <groupId>io.cucumber</groupId>
             <artifactId>cucumber-junit</artifactId>
@@ -94,7 +94,7 @@
 </dependency>
 
 //WebDriverManager.(browser u want to choose)Chromedriver().setup();
-//Webdriver driver = new (browser driver u choosen)Chromedriver();(REMOVE THESE TEXT/LINE BEFORE COPY)
+//Webdriver driver = new (browser driver u choosen)Chromedriver();               (REMOVE THESE TEXT/LINE BEFORE COPY)
 
 <!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
         <dependency>
