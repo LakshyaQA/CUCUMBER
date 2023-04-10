@@ -103,6 +103,7 @@
         @BeforeMethod
         public void before() throws InterruptedException {
             WebDriverManager.chromedriver().setup();
+            //ChromeDriver driver = new ChromeDriver();
             driver = new ChromeDriver();
             driver.get("https://money.rediff.com/gainers/bse/daily/groupa");
             driver.manage().window().maximize();
